@@ -11,11 +11,11 @@ This is the frontend service for the Salary Management System. It provides a use
 ## Installation
 1. Clone the repository:
    ```bash
-    git clone 
+    git clone <repository_url>
     ```
 2. Navigate to the project directory:
     ```bash
-    cd sms-frontend
+    cd sms_frontend
     ```
 3. Install dependencies:
     ```bash
